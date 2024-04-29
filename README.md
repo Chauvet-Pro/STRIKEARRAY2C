@@ -6,7 +6,7 @@
    >If a different message appears on the display, search for the updated software in the main menu (**Update Firmware**) and select from ***Only This Unit***, ***Multiple Fixture***, or ***Other Fixture Type***. A list of the updated software files will be displayed.
 3. Select the file that needs to be uploaded. The message **"Are you sure?"** will be displayed. Press **<ENTER>**.
    >**If the selected file is incorrect, the upgrade will fail, and the display will go back to the main interface.**
-   >**Repeat steps 1-3 using the correct file**
+   >**Repeat steps 1-3 using the correct file**.
 
 4. If the selected file is correct, the upgrade will start. DO NOT turn off the power or disconnect the USB during the process. USB update can take several minutes to complete.
 5. When the update is complete, the fixture will automatically reboot.
