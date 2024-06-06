@@ -11,7 +11,7 @@
 1. Power on the product and plug the flash drive into the USB port.
 2. Once the flash drive has been detected, the message "**Upgrade Firmware**" will be displayed. Press **< ENTER >**.
    >* If a different message appears on the display, search for the updated software in the main menu (**Update Firmware**) and select from ***Only This Fixture***, ***Multiple Fixture***, or ***Other Fixture Type***, and ***Fixture to Fixture***. A list of the updated software files will be displayed.
-   >* When ***Fixture to Fixture*** option is chosen, a warning will pop up: *"Make sure no other signal, Network, or DMX controller is being sent. Press **< ENTER >** to start."*
+   >See the separate instructions below for doing a **Fixture to Fixture** software update process.
 3. Select the file that needs to be uploaded. The message **"Are you sure?"** will be displayed. Press **< ENTER >**.
    >**If the selected file is incorrect, the upgrade will fail, and the display will go back to the main interface.**
    >**Repeat steps 1-3 using the correct file**.
@@ -27,6 +27,26 @@
 
 
 &nbsp;  
+
+## Fixture to Fixture Software Update
+
+To update the firmware using a DMX cable connection, follow the instructions below:
+1. Power on the products.
+2. Connect the DMX out of the STRIKE Array 2C Driver with the latest firmware to the DMX in of the STRIKE Array 2C Driver that needs to be updated.
+3. Go to the **Update Firmware** main level of the receiving product.
+4. Select the **Fixture to Fixture** option.
+5. A warning ***"make sure no other signal, Network, or DMX controller is being sent! and press enter key to start update"*** will show on the display. Press **< ENTER >** to start the update.
+   >* DO NOT turn off the power or disconnect the DMX cable during the process. The update can take several minutes to complete.
+   >* If the connected product is incorrect or has the incorrect sofware, the upgrade will fail, and the display will go back to the main interface. Repeat **steps 1-5** using a STRIKE Array 2C Driver with valid software.
+6. If the connected product is valid, the update will start. DO NOT turn off power or disconnect the DMX cable during the process. The update can take several minutes to complete.
+7. When the update is complete, the product will automatically reboot.
+8. Go to the **Information** level of the prodduct's main menu and confirm the software update.
+
+### Special Notes
+* When updating software using the **Fixture to Fixture** option, make sure no other DMX or Ethernet signals are connected to the products.
+* Turning off the power, removing the DMX cable, or not setting the fixture to the correct protocol during the update can cause partial or total firmware failure in the targeted fixture. The user will need an **Upload 03** device to fix the software failure issues. Please contact Chauvet customer service for this device.
+
+&nbsp;
 
 ## Force Upload
 
