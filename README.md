@@ -50,7 +50,6 @@ To update the firmware using a DMX cable connection, follow the instructions bel
 &nbsp;
 
 ## Force Upload
-
 1.	Link the target fixture to the main fixture via a DMX 5-pin connection. Ensure that the target fixture is turned off.
 2.	Turn on the main fixture and set its protocol to DMX512.
 3.	Plug the flash drive into the USB-C port of the main fixture.
