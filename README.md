@@ -2,6 +2,18 @@
 
 ## Software Versions
 
+[V1.0.2 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/d6f77680d081bebbcd1b15952fcaf151ac95196d/Firmware/V1.0.2_04-11-25.zip)
+- Added the 2ch and 8ch mode (duplicate the 2ch and 8ch modes from the Strike Array 2)
+- Fixed the Auto Programs 4, 5, 6 out of sync issue.  
+- Moved the temperature and battery capacity icons down a bit.
+- Changed the Control Channel according to the Well series.
+- Added the sub-net mask
+- Revised the linear response speed of low-end dimming brightness
+- Changed the function and information in the Web-server
+- Changed the starting channel settings for Ethernet
+- Updated the USB upgrade function, only works when enter the USB upgrade interface 
+
+
 [V1.0.1 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/27c99477dc3e1c45bc11e609be987f870453869d/Firmware/V1.0.1_04-29-24.zip)
 - Released software version
 
