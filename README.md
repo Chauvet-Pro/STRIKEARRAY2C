@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.3 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/eb09c532f0f56f60f0e6496f74fd45d26bf62b2a/Firmware/V1.0.3_04-23-25.zip)
+- Fixes sACN bug found in v1.0.2
+
 [V1.0.2 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/d6f77680d081bebbcd1b15952fcaf151ac95196d/Firmware/V1.0.2_04-11-25.zip)
 - Added the 2ch and 8ch mode (duplicate the 2ch and 8ch modes from the Strike Array 2)
 - Fixed the Auto Programs 4, 5, 6 out of sync issue.  
