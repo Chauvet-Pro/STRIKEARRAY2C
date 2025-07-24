@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.4 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/83eea2cf1771d7f5d01e2be268fad7ce3742897d/Firmware/V1.0.4_07-24-25.zip)
+- Expands sACN Universe Limit and optimizes fan control
+
 [V1.0.3 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/eb09c532f0f56f60f0e6496f74fd45d26bf62b2a/Firmware/V1.0.3_04-23-25.zip)
 - Fixes sACN bug found in v1.0.2
 
