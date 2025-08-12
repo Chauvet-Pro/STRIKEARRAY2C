@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.0.6 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/blob/599a118f42ce1e28e420fa4b9de9c50f6d87ca57/Firmware/V1.0.6_08-12-25.zip)
+[V1.0.6 - STRIKE Array 2C](https://github.com/Chauvet-Pro/STRIKEARRAY2C/raw/599a118f42ce1e28e420fa4b9de9c50f6d87ca57/Firmware/V1.0.6_08-12-25.zip)
 - Revised the DRV FLASH clock wait cycles
 - Fixed the backup battery indicator icon appearance inconsistencies
 - Changed the firmware revision (V1.0) shown via ArtRDM
